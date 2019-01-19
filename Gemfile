@@ -37,7 +37,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
 group :production do
   gem 'rails_12factor'
-  gem 'pg' # An Elephant never forget
+  gem 'pg' # An Elephant never forgets
 end
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
